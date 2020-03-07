@@ -1,0 +1,10 @@
+<!--logs.wxml-->
+<view class="container">
+  <view>
+    <view class="input-title">用户名</view>
+    <input placeholder="请输入用户名" bindinput="usernameInput"></input>
+    <view class="input-title">密码</view>
+    <input placeholder="请输入密码" bindinput="passwardInput"></input>
+    <button type="primary" bindtap="clickLog">登录</button>
+  </view>
+</view>

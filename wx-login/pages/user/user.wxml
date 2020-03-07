@@ -1,0 +1,5 @@
+<view class="container">
+  <view>这里是个人中心页面...有用户的信息</view>
+  <view>用户名</view>
+  <view>{{username}}</view>
+</view>
